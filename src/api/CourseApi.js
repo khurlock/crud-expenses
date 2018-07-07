@@ -6,31 +6,31 @@ import delay from './delay';
 const courses = [
     {
         id: "Expense1",
-        title: 55,
+        title: "$55",
         authorId: "Auto & Transport",
         category: "gas"
     },
     {
         id: "Expense2",
-        title: 500,
+        title: "$500",
         authorId: "Bills & Utilities",
         category: "rent"
     },
     {
         id: "Expense3",
-        title: 11,
+        title: "$11",
         authorId: "Food & Dining",
         category: "lunch"
     },
     {
         id: "Expense4",
-        title: 234,
+        title: "$234",
         authorId: "Education",
         category: "books"
     },
     {
         id: "Expense5",
-        title: 250,
+        title: "$250",
         authorId: "Entertainment",
         category: "concert tickets"
     }
