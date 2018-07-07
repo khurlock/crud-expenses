@@ -10,7 +10,7 @@ export const CourseForm = ({ handleSubmit, pristine, reset, submitting, heading,
             <h1>{heading}</h1>
 
             <Field
-                type="number"
+                type="string"
                 name="title"
                 label="Amount"
                 placeholder="Amount of Expense"
